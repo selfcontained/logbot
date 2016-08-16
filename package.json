@@ -1,0 +1,17 @@
+{
+  "name": "logbot",
+  "version": "1.0.0",
+  "description": "i make logs",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/selfcontained/logbot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selfcontained/logbot/issues"
+  }
+}
